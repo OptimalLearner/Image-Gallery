@@ -6,6 +6,8 @@ A web-based responsive **Image Gallery** with high resolution images. Built usin
 **Tech Stack Used:** HTML 5, CSS, JavaScript, ReactJS, Tailwind CSS  
 **APIs Used:** PixaBay API ( To fetch the images for the Image Gallery ) 
 
+**Tutorial Referred:** [Traversay Media](https://www.youtube.com/watch?v=FiGmAI5e91M)
+
 ## Steps to run the app locally
 * Open command prompt (or terminal) and change the current working directory to location where you want to clone the repository.
 * Then type: *git clone https://github.com/OptimalLearner/Image-Gallery* and press Enter.
