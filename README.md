@@ -1,6 +1,8 @@
 # Image Gallery
 A web-based responsive **Image Gallery** with high resolution images. Built using **ReactJS** and **Tailwind CSS**. **Pixabay API** used to fetch high resolution images and display it in the web application.
 
+**Visit the live app:** [View on GitHub Pages](https://optimallearner.github.io/Image-Gallery/)
+
 **Tech Stack Used:** HTML 5, CSS, JavaScript, ReactJS, Tailwind CSS  
 **APIs Used:** PixaBay API ( To fetch the images for the Image Gallery ) 
 
